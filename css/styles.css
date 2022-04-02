@@ -1,0 +1,22 @@
+.button {
+    color: #FFFFFF; background-color: #2196F3; border-radius: 4px;
+}
+
+.background {
+     background-color: #2F303A;
+}
+
+.text {
+    color: #FFFFFF; width: 145px; height: 31px; font-size: 26px; text-decoration: none;
+}
+
+.text > span {
+    color: #2196F3; width: 145px; height: 31px; font-size: 26px; text-decoration: none;
+}
+
+.text-text {
+    color: black; width: 145px; height: 31px; font-size: 26px; text-decoration: none;
+}
+.text-text > span {
+    color: #2196F3; width: 145px; height: 31px; font-size: 26px; text-decoration: none;
+}
